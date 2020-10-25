@@ -8,6 +8,7 @@ The course was teached by branches, so the master branch is the start point and 
 thing about react:
 
 - Emotion Code [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/emotion]
+- Code Splitting [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/code-splitting]
 
 ## Code Splitting
 
