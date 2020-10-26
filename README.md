@@ -15,6 +15,11 @@ thing about react:
 Use lazy to load a component just when the component is need, just use lazy when the component/page is heavy like more
 than 30kb, otherwise will be worst use lazy
 
+## SSR
+
+- renderToString class:
+- renderToNodeStream class:
+
 ## Clear Cache
 
 rm -rf .cache dist
