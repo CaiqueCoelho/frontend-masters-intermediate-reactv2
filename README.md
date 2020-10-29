@@ -10,6 +10,7 @@ thing about react:
 - Emotion Code [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/emotion]
 - Code Splitting [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/code-splitting]
 - SSR [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/ssr]
+- Typescript [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/typescript]
 
 ## Code Splitting
 
@@ -20,6 +21,11 @@ than 30kb, otherwise will be worst use lazy
 
 - renderToString class: https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/commit/ac8ecd88a05fb5c09aaf8acc06d4d8288d7cd062
 - renderToNodeStream class: https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/commit/f377cc27e979b68f6d1c8644780b3636c7dc2a12
+
+## Typescript
+
+- `npx tsc --init` initiate a typescript project
+- `npm run typecheck` check for erros in typescript
 
 ## Clear Cache
 
