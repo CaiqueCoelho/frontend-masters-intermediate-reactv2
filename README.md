@@ -10,6 +10,7 @@ thing about react:
 - Emotion Code [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/emotion]
 - Code Splitting [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/code-splitting]
 - SSR [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/ssr]
+- Typescript [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/typescript]
 
 ## Code Splitting
 
@@ -24,6 +25,7 @@ than 30kb, otherwise will be worst use lazy
 ## Typescript
 
 - `npx tsc --init` initiate a typescript project
+- `npm run typecheck` check for erros in typescript
 
 ## Clear Cache
 
