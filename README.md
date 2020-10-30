@@ -11,6 +11,7 @@ thing about react:
 - Code Splitting [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/code-splitting]
 - SSR [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/ssr]
 - Typescript [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/typescript]
+- Redux
 
 ## Code Splitting
 
@@ -26,6 +27,12 @@ than 30kb, otherwise will be worst use lazy
 
 - `npx tsc --init` initiate a typescript project
 - `npm run typecheck` check for erros in typescript
+
+## Redux
+
+Redux has been used less and less, so think carefully before using Redux, you may not need to, a great solution is to use useReducer
+If you are getting or sending to several diferent API maybe Redux can be a good solution if you need to get the responses from this
+APIs in an specif order, one example is Sagas
 
 ## Clear Cache
 
