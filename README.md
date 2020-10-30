@@ -11,7 +11,7 @@ thing about react:
 - Code Splitting [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/code-splitting]
 - SSR [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/ssr]
 - Typescript [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/typescript]
-- Redux
+- Redux [https://github.com/CaiqueCoelho/frontend-masters-intermediate-reactv2/tree/redux]
 
 ## Code Splitting
 
